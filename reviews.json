@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "reviews": "Engaging lectures and clear explanations. Challenging but fair exams."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "reviews": "Excellent teacher! Always available for extra help and provides real-world examples."
+      },
+      {
+        "professor": "Dr. Sarah Martinez",
+        "subject": "Biology",
+        "stars": 3,
+        "reviews": "Knowledgeable but sometimes moves too fast through complex topics."
+      },
+      {
+        "professor": "Prof. David Thompson",
+        "subject": "History",
+        "stars": 4,
+        "reviews": "Passionate about the subject. Assignments are thought-provoking."
+      },
+      {
+        "professor": "Dr. Rachel Lee",
+        "subject": "Mathematics",
+        "stars": 5,
+        "reviews": "Makes difficult concepts easy to understand. Very patient with students."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Chemistry",
+        "stars": 4,
+        "reviews": "Enthusiastic about chemistry. Lab sessions are well-organized and informative."
+      },
+      {
+        "professor": "Dr. Linda Garcia",
+        "subject": "Psychology",
+        "stars": 5,
+        "reviews": "Engaging lecturer who brings theories to life with real-world examples."
+      },
+      {
+        "professor": "Prof. Robert Brown",
+        "subject": "Economics",
+        "stars": 3,
+        "reviews": "Knowledgeable but can be intimidating. Office hours are helpful."
+      },
+      {
+        "professor": "Dr. Susan Taylor",
+        "subject": "English Literature",
+        "stars": 4,
+        "reviews": "Passionate about literature. Encourages critical thinking and lively discussions."
+      },
+      {
+        "professor": "Prof. Thomas Anderson",
+        "subject": "Philosophy",
+        "stars": 5,
+        "reviews": "Brilliant mind. Challenges students to think deeply about complex concepts."
+      },
+      {
+        "professor": "Dr. Jennifer Lee",
+        "subject": "Sociology",
+        "stars": 4,
+        "reviews": "Approachable and knowledgeable. Assignments are relevant and thought-provoking."
+      },
+      {
+        "professor": "Prof. William Harris",
+        "subject": "Political Science",
+        "stars": 3,
+        "reviews": "Experienced in the field but lectures can be dry. Exams are challenging."
+      },
+      {
+        "professor": "Dr. Amanda Rodriguez",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "reviews": "Cutting-edge research incorporated into lessons. Inspiring for aspiring scientists."
+      },
+      {
+        "professor": "Prof. Daniel Kim",
+        "subject": "Art History",
+        "stars": 4,
+        "reviews": "Passionate about art. Field trips to museums enhance the learning experience."
+      },
+      {
+        "professor": "Dr. Elizabeth Wright",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "reviews": "Engaging lecturer who brings environmental issues to life. Great field work opportunities."
+      },
+      {
+        "professor": "Prof. Richard Davis",
+        "subject": "Mechanical Engineering",
+        "stars": 3,
+        "reviews": "Highly knowledgeable but can be hard to follow. Extra study required."
+      },
+      {
+        "professor": "Dr. Maria Sanchez",
+        "subject": "Linguistics",
+        "stars": 4,
+        "reviews": "Fascinating insights into language. Assignments are challenging but rewarding."
+      },
+      {
+        "professor": "Prof. George Wilson",
+        "subject": "Business Administration",
+        "stars": 5,
+        "reviews": "Brings real-world business experience to the classroom. Excellent networking opportunities."
+      },
+      {
+        "professor": "Dr. Laura Thompson",
+        "subject": "Anthropology",
+        "stars": 4,
+        "reviews": "Passionate about cultural studies. Field trips and guest speakers enhance learning."
+      },
+      {
+        "professor": "Prof. Christopher Lee",
+        "subject": "Music Theory",
+        "stars": 5,
+        "reviews": "Brilliant musician and teacher. Makes complex theory accessible and enjoyable."
+      }
+    ]
+  }
